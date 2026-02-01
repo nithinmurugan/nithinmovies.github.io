@@ -1,0 +1,39 @@
+body {
+font-family: Arial;
+margin: 0;
+background: #f4f4f4;
+}
+
+nav {
+background: #023e8a;
+color: white;
+padding: 15px;
+display: flex;
+justify-content: space-between;
+}
+
+nav ul {
+display: flex;
+list-style: none;
+}
+
+nav ul li {
+margin-left: 15px;
+}
+
+nav ul li a {
+color: white;
+text-decoration: none;
+}
+
+section {
+padding: 40px;
+background: white;
+margin: 20px;
+border-radius: 10px;
+}
+
+#home {
+text-align: center;
+background: #caf0f8;
+}
