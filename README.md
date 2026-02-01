@@ -1,1 +1,1 @@
-# nithinmovies.github.io
+# nithin.github.io
