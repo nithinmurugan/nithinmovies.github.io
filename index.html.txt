@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Nithin Movies Portfolio</title>
+<title>Nithin Portfolio</title>
 <link rel="stylesheet" href="style.css">
 </head>
 
@@ -21,7 +21,7 @@
 </nav>
 
 <section id="home">
-<h1>Hello, I'm Nithin Movies</h1>
+<h1>Hello, I'm Nithin</h1>
 <p>Biomedical Engineering Student</p>
 </section>
 
@@ -52,3 +52,4 @@ Interested in medical devices, embedded systems and healthcare technology.
 <script src="script.js"></script>
 </body>
 </html>
+
